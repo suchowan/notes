@@ -17,12 +17,11 @@
 - 暦日変換 🔹([メイン](http://hosi.org:3000), [サブ](http://hosi.org:4000))
 - 日本暦注 🔹([検索](http://hosi.org:3000/Note), [使い方](http://www2u.biglobe.ne.jp/~suchowan/wiki/query.html))
 
-### when.exe [🐙](https://github.com/suchowan/when_exe), [💎](https://rubygems.org/gems/when_exe), [🔗](https://web.archive.org/web/20181129223238/http://lod.sfc.keio.ac.jp/challenge2014/show_status.php?id=b015), [💾](https://www.asahi-net.or.jp/~dd6t-sg/whenhome_contents.html)
+### when.exe [🐙](https://github.com/suchowan/when_exe), [💎](https://rubygems.org/gems/when_exe), [🔗](#linked-data--), [💾](https://www.asahi-net.or.jp/~dd6t-sg/whenhome_contents.html)
 
-- 日本暦注データセット [🔗](https://web.archive.org/web/20181129223238/http://lod.sfc.keio.ac.jp/challenge2014/show_status.php?id=d070)
-- 日本祝祭日データセット [🔗](http://idea.linkdata.org/idea/idea1s1574i)
+- when_exe_wiki [🔹](http://www2u.biglobe.ne.jp/~suchowan/when_exe_wiki.html)
 
-### documents [🐙](https://github.com/suchowan/calendar_papers/), [🎓](https://independent.academia.edu/TakashiSUGA), [🔹Wiki](http://www2u.biglobe.ne.jp/~suchowan/when_exe_wiki.html)
+### documents [🐙](https://github.com/suchowan/calendar_papers/), [🎓](https://independent.academia.edu/TakashiSUGA)
 
 - 「なぜ明治改暦で『正月』は『一月』になったのか」 [📰](https://suchowan.seesaa.net/article/202604article_01.html) ([論考紹介](https://suchowan.seesaa.net/article/202604article_1.html), [12時はなぜ0でない](https://suchowan.seesaa.net/article/201210article_7.html)), [🎓](https://www.academia.edu/165227830), [🐙](https://github.com/suchowan/calendar_papers/blob/master/%E3%81%AA%E3%81%9C%E6%98%8E%E6%B2%BB%E6%94%B9%E6%9A%A6%E3%81%A7%E3%80%8E%E6%AD%A3%E6%9C%88%E3%80%8F%E3%81%AF%E3%80%8E%E4%B8%80%E6%9C%88%E3%80%8F%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B.pdf) ([slide](https://raw.githubusercontent.com/suchowan/calendar_papers/master/The_Meiji_Zero_Month_Mystery.pdf))
 - 「『日本暦日原典』による明治改暦に関する通説の再検討」 [📰](https://suchowan.seesaa.net/article/202508article_3.html), [🎓](https://www.academia.edu/143211283), [🐙](https://github.com/suchowan/calendar_papers/blob/master/%E3%80%8E%E6%97%A5%E6%9C%AC%E6%9A%A6%E6%97%A5%E5%8E%9F%E5%85%B8%E3%80%8F%E3%81%AB%E3%82%88%E3%82%8B%E6%98%8E%E6%B2%BB%E6%94%B9%E6%9A%A6%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E9%80%9A%E8%AA%AC%E3%81%AE%E5%86%8D%E6%A4%9C%E8%A8%8E.pdf) ([slide](https://raw.githubusercontent.com/suchowan/calendar_papers/master/Meiji_Calendar_Strategy.pdf)), [🔹Wiki](https://www2u.biglobe.ne.jp/~suchowan/mcr1873.html)
@@ -91,10 +90,11 @@
 
 ### Linked Data [🔹](http://www2u.biglobe.ne.jp/~suchowan/wiki/RDF.html), [🔗](http://user.linkdata.org/search?keyword=%E9%A0%88%E8%B3%80%E9%9A%86&category=all)
 
- - When.exe Ruby版 [🔗](https://web.archive.org/web/20181129223238/http://lod.sfc.keio.ac.jp/challenge2014/show_status.php?id=b015)
- - 日本暦注データセット [🔗](https://web.archive.org/web/20181129223238/http://lod.sfc.keio.ac.jp/blog/?p=2586#dataset)
- - 蔵書データセット [🔗](http://idea.linkdata.org/idea/idea1s1965i)
- - 文庫一覧 [🔹](http://hosi.org:8080/z/books/bunko/index.htm)
+- When.exe Ruby版 [🌐](https://web.archive.org/web/20181129223238/http://lod.sfc.keio.ac.jp/challenge2014/show_status.php?id=b015)
+- 日本暦注データセット [🌐](https://web.archive.org/web/20181129223238/http://lod.sfc.keio.ac.jp/challenge2014/show_status.php?id=d070) ([部門優秀賞](https://web.archive.org/web/20181129223238/http://lod.sfc.keio.ac.jp/blog/?p=2586#dataset), [概要](https://web.archive.org/web/20181129223238/http://2016.lodc.jp/resource.html#d080)), [🔹](http://hosi.org/doc/dataset/notes_data_japan.v0.4.7.zip)
+- 日本祝祭日データセット [🔗](http://idea.linkdata.org/idea/idea1s1574i), [🐙](https://github.com/suchowan/when_exe/tree/master/test/events)
+- 蔵書データセット [🔗](http://idea.linkdata.org/idea/idea1s1965i)
+- 文庫一覧 [🔹](http://hosi.org:8080/z/books/bunko/index.htm)
 
 ## ☆ Software
 
