@@ -1,4 +1,4 @@
-# Takashi Suga — Research Portal [🔮](http://hosi.org/Portal)
+# [Takashi Suga](#-about) — Research Portal [🔮](http://hosi.org/Portal)
 
 > **New here?** Start with the two main research threads.  
 > [Universal Unit System](http://dozenal.com) (measurement) or  
@@ -7,7 +7,7 @@
 ### Legend:
 
 🎓Academia.edu 🐙GitHub 📘J-Stage, 💾Legacy 🔗Linkdata.org 🧩Qiita 💎RubyGems, 🌐External Authority  
-🌤Bluesky 🐦X.com(旧 Twitter), 🏠asahi-net 🕒biglobe 🔢dozenal.com 🔮hosi.org, 📝Blog ([Research Portal](https://suchowan.seesaa.net/article/202607article_6.html), [☆](https://suchowan.seesaa.net/article/202501article_5.html))
+🌤Bluesky 👥Facebook 🐦X.com, 🏠asahi-net 🕒biglobe 🔢dozenal.com 🔮hosi.org, 📝Blog ([Research Portal](https://suchowan.seesaa.net/article/202607article_6.html), [☆](https://suchowan.seesaa.net/article/202501article_5.html))
 
 ## ☆ Calendar Systems
 
@@ -37,7 +37,7 @@
 
 ## ☆ Measurement Systems
 
-### dozenal.com [🔢](http://dozenal.com) ([一枚画](https://github.com/suchowan/a_converter/blob/master/doc/pic/Eight_Quartets_Overview_AI_edited.png)), 📝([動画](https://suchowan.seesaa.net/article/202601article_30.html#:~:text=http://hosi.org/doc/UUS.mp4), [音声](https://suchowan.seesaa.net/article/202601article_28.html#:~:text=http://hosi.org/doc/UUS.m4a)), [📝](https://suchowan.seesaa.net/tag/%E6%99%AE%E9%81%8D%E5%8D%98%E4%BD%8D%E7%B3%BB) ([星座の譬え](https://suchowan.seesaa.net/article/202601article_31.html), [English](https://suchowan.seesaa.net/search?keyword=%3EJapanese%3C), [Japanese](https://suchowan.seesaa.net/search?keyword=%3EEnglish%3C))
+### dozenal.com [🔢](http://dozenal.com) ([一枚画](https://github.com/suchowan/a_converter/blob/master/doc/pic/Eight_Quartets_Overview_AI_edited.png)), 📝([動画](https://suchowan.seesaa.net/article/202601article_30.html#:~:text=http://hosi.org/doc/UUS.mp4), [音声](https://suchowan.seesaa.net/article/202601article_28.html#:~:text=http://hosi.org/doc/UUS.m4a)), [📝](https://suchowan.seesaa.net/tag/%E6%99%AE%E9%81%8D%E5%8D%98%E4%BD%8D%E7%B3%BB) ([星座の譬え](https://suchowan.seesaa.net/article/202601article_31.html), [英](https://suchowan.seesaa.net/search?keyword=%3EJapanese%3C), [和](https://suchowan.seesaa.net/search?keyword=%3EEnglish%3C)), 💾 ([英](https://www.asahi-net.or.jp/~dd6t-sg/univunit-e), [和](https://www.asahi-net.or.jp/~dd6t-sg/univunit-j))
 
 - Main README.md [🔢](https://github.com/suchowan/a_converter/blob/master/README.md)
 - revised.pdf — Formal description of UUS/Harmonic System [🔢](https://github.com/suchowan/a_converter/blob/master/doc/revised.pdf), [🎓](https://www.academia.edu/165195123), [🏠](http://www.asahi-net.or.jp/~dd6t-sg/univunit-e/revised.pdf) is cited from Wikipedia:Duodecimal[🌐](https://en.wikipedia.org/wiki/Duodecimal#cite_note-37)
@@ -127,13 +127,17 @@
 ### Old Documents [💾](http://hosi.org/cgi-bin/links.cgi?Misc)
 
 - 「Schwartzchild 時空の測地線」 [🐙](https://github.com/suchowan/notes/blob/master/Blackhole.pdf)
-- 「Papers on waveguides published before 1995」 [🎓](https://independent.academia.edu/TakashiSUGA/Papers#:~:text=A%20method%20of%20analysis,filters)
+- Papers on waveguides published before 1995 [🎓](https://independent.academia.edu/TakashiSUGA/Papers#:~:text=A%20method%20of%20analysis,filters)
 
 ## ☆ About
 
-### Takashi SUGA [📝](https://suchowan.seesaa.net/), [🐦](https://x.com/suchowan), [🌤](https://bsky.app/profile/suchowan.bsky.social), [🐙](https://github.com/suchowan) ([gist](https://gist.github.com/suchowan)), [💎](https://rubygems.org/profiles/suchowan), [🧩](https://qiita.com/suchowan), [🎓](https://independent.academia.edu/TakashiSUGA), [🔗](http://user.linkdata.org/search?keyword=%E9%A0%88%E8%B3%80%E9%9A%86&category=all)
+This portal is a field-based map of Takashi Suga's research resources,
+linking papers, software, datasets, blog posts, and legacy web pages across
+GitHub, asahi-net, hosi.org, Academia.edu, and related sites.
+
+### Takashi SUGA [📝](https://suchowan.seesaa.net/), [🌤](https://bsky.app/profile/suchowan.bsky.social), [👥](https://www.facebook.com/suchowan), [🐦](https://x.com/suchowan), [🐙](https://github.com/suchowan) ([gist](https://gist.github.com/suchowan)), [💎](https://rubygems.org/profiles/suchowan), [🧩](https://qiita.com/suchowan), [🎓](https://independent.academia.edu/TakashiSUGA), [🔗](http://user.linkdata.org/search?keyword=%E9%A0%88%E8%B3%80%E9%9A%86&category=all)
 
 - FoAF [🔮](http://hosi.org/TakashiSuga.rdf), [🔢](https://suchowan.github.io/a_converter/TakashiSuga.rdf)
 - HP [🏠](https://www.asahi-net.or.jp/~dd6t-sg/)
-- Blog [📝](https://suchowan.seesaa.net/) (Since [1998-09-20](https://suchowan.seesaa.net/article/202202article_6.html) ([Transcribed](https://suchowan.seesaa.net/article/202202article_13.html)), [Idea](https://suchowan.seesaa.net/article/201702article_4.html))
+- Blog [📝](https://suchowan.seesaa.net/) (Since [1998-09-20](https://suchowan.seesaa.net/article/202202article_6.html) ([Transcribed](https://suchowan.seesaa.net/article/202202article_13.html)), [Idea](https://suchowan.seesaa.net/article/201702article_4.html)) [🔼](#takashi-suga--research-portal-)
 
