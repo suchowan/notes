@@ -23,7 +23,7 @@
 
 ### documents [🐙](https://github.com/suchowan/calendar_papers/), [🎓](https://independent.academia.edu/TakashiSUGA)
 
-- 「なぜ明治改暦で『正月』は『一月』になったのか」 [📝](https://suchowan.seesaa.net/article/202604article_01.html) ([論考紹介](https://suchowan.seesaa.net/article/202604article_1.html), [12時はなぜ0でない](https://suchowan.seesaa.net/article/201210article_7.html)), [🎓](https://www.academia.edu/165227830), [🐙](https://github.com/suchowan/calendar_papers/blob/master/%E3%81%AA%E3%81%9C%E6%98%8E%E6%B2%BB%E6%94%B9%E6%9A%A6%E3%81%A7%E3%80%8E%E6%AD%A3%E6%9C%88%E3%80%8F%E3%81%AF%E3%80%8E%E4%B8%80%E6%9C%88%E3%80%8F%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B.pdf) ([slide](https://raw.githubusercontent.com/suchowan/calendar_papers/master/The_Meiji_Zero_Month_Mystery.pdf))
+- 「なぜ明治改暦で『正月』は『一月』になったのか」 [📝](https://suchowan.seesaa.net/article/202604article_01.html) ([論考紹介](https://suchowan.seesaa.net/article/202604article_1.html), [12時はなぜ0でないか](https://suchowan.seesaa.net/article/201210article_7.html)), [🎓](https://www.academia.edu/165227830), [🐙](https://github.com/suchowan/calendar_papers/blob/master/%E3%81%AA%E3%81%9C%E6%98%8E%E6%B2%BB%E6%94%B9%E6%9A%A6%E3%81%A7%E3%80%8E%E6%AD%A3%E6%9C%88%E3%80%8F%E3%81%AF%E3%80%8E%E4%B8%80%E6%9C%88%E3%80%8F%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B.pdf) ([slide](https://raw.githubusercontent.com/suchowan/calendar_papers/master/The_Meiji_Zero_Month_Mystery.pdf))
 - 「『日本暦日原典』による明治改暦に関する通説の再検討」 [📝](https://suchowan.seesaa.net/article/202508article_3.html), [🎓](https://www.academia.edu/143211283), [📘](https://doi.org/10.34336/jhsj.63.310_182), [🐙](https://github.com/suchowan/calendar_papers/blob/master/%E3%80%8E%E6%97%A5%E6%9C%AC%E6%9A%A6%E6%97%A5%E5%8E%9F%E5%85%B8%E3%80%8F%E3%81%AB%E3%82%88%E3%82%8B%E6%98%8E%E6%B2%BB%E6%94%B9%E6%9A%A6%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E9%80%9A%E8%AA%AC%E3%81%AE%E5%86%8D%E6%A4%9C%E8%A8%8E.pdf) ([slide](https://raw.githubusercontent.com/suchowan/calendar_papers/master/Meiji_Calendar_Strategy.pdf)), 🕒 ([Wiki](https://www2u.biglobe.ne.jp/~suchowan/mcr1873.html))
 - 「複数の暦法の中心差を比較し可視化する試み」 [📝](https://suchowan.seesaa.net/article/202312article_4.html), [🎓](https://www.academia.edu/110393271) ([原型](https://www.academia.edu/44545145)), [📘](https://doi.org/10.34336/jhsj.61.301_18) ([原型](https://doi.org/10.34336/jhsj.58.291_233)), 🐙 ([補足](https://github.com/suchowan/calendar_papers/blob/master/%E8%A4%87%E6%95%B0%E3%81%AE%E6%9A%A6%E6%B3%95%E3%81%AE%E4%B8%AD%E5%BF%83%E5%B7%AE%E3%82%92%E6%AF%94%E8%BC%83%E3%81%97%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B%E6%89%8B%E6%B3%95%E3%81%AE%E8%A3%9C%E8%B6%B3.pdf), [PCA](https://gist.github.com/suchowan/ebcc8e3021caacc7af55d219936282f5))
 - 「『イル・ハン天文便覧』に見える中国暦・ヒジュラ暦換算表の再構」 [📝](https://suchowan.seesaa.net/article/201901article_28.html) ([イル・ハン](https://suchowan.seesaa.net/search?keyword=%E3%82%A4%E3%83%AB%E3%83%BB%E3%83%8F%E3%83%B3)), [🎓](https://www.academia.edu/38227507), [🌐](https://web.archive.org/web/20221127010347/https://www2.nao.ac.jp/~mitsurusoma/gendai5.html)
@@ -127,6 +127,7 @@
 ### Old Documents [💾](http://hosi.org/cgi-bin/links.cgi?Misc)
 
 - 「Schwartzchild 時空の測地線」 [🐙](https://github.com/suchowan/notes/blob/master/Blackhole.pdf)
+- 「Papers on waveguides published before 1995」 [🎓](https://independent.academia.edu/TakashiSUGA/Papers#:~:text=A%20method%20of%20analysis,filters)
 
 ## ☆ About
 
