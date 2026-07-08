@@ -137,6 +137,8 @@ GitHub, asahi-net, hosi.org, Academia.edu, and related sites.
 
 ### Takashi SUGA [📝](https://suchowan.seesaa.net/), [🌤](https://bsky.app/profile/suchowan.bsky.social), [👥](https://www.facebook.com/suchowan), [🐦](https://x.com/suchowan), [🐙](https://github.com/suchowan) ([gist](https://gist.github.com/suchowan)), [💎](https://rubygems.org/profiles/suchowan), [🧩](https://qiita.com/suchowan), [🎓](https://independent.academia.edu/TakashiSUGA), [🔗](http://user.linkdata.org/search?keyword=%E9%A0%88%E8%B3%80%E9%9A%86&category=all)
 
+A long-term exploration of how time, measurement, and numerical representation interact across calendar systems, computational methods, and unit frameworks.
+
 - FoAF [🔮](http://hosi.org/TakashiSuga.rdf), [🔢](https://suchowan.github.io/a_converter/TakashiSuga.rdf)
 - HP [🏠](https://www.asahi-net.or.jp/~dd6t-sg/)
 - Blog [📝](https://suchowan.seesaa.net/) (Since [1998-09-20](https://suchowan.seesaa.net/article/202202article_6.html) ([Transcribed](https://suchowan.seesaa.net/article/202202article_13.html)), [Idea](https://suchowan.seesaa.net/article/201702article_4.html)) [🔼](#takashi-suga--research-portal-)
