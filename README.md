@@ -6,7 +6,7 @@
 
 ### Legend:
 
-🎓Academia.edu 🐙GitHub 📘J-Stage, 💾Legacy 🔗Linkdata.org 🧩Qiita 💎RubyGems, 🌐External Authority  
+🎓Academia.edu 🐙GitHub 📘J-Stage(doi), 💾Legacy 🔗Linkdata.org 🧩Qiita 💎RubyGems, 🌐ExternalAuthority  
 🌤Bluesky 👥Facebook 🐦X.com, 🏠asahi-net 🕒biglobe 🔢dozenal.com 🔮hosi.org, 📝Blog ([Research Portal](https://suchowan.seesaa.net/article/202607article_6.html), [☆](https://suchowan.seesaa.net/article/202501article_5.html))
 
 ## ☆ Calendar Systems
