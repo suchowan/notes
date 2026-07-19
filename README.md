@@ -2,7 +2,9 @@
 
 > **New here?** Start with the two main research threads.  
 > [Universal Unit System](http://dozenal.com) (measurement) or  
-> [Meiji Calendar Reform](https://www2u.biglobe.ne.jp/~suchowan/mcr1873.html) (calendrical studies) 
+> [Meiji Calendar Reform](https://www2u.biglobe.ne.jp/~suchowan/mcr1873.html) (calendrical studies)  
+>  
+>[🌐 View this page in English (Google Translate)](https://github-com.translate.goog/suchowan/notes/blob/master/README.md?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=ja)
 
 ### Legend:
 
