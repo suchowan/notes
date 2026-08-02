@@ -73,10 +73,10 @@
 
 ### Math & Structure Notes [📝](https://suchowan.seesaa.net/tag/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3), [💾](https://www.asahi-net.or.jp/~dd6t-sg/simulation.html)
 
+- 「惑星・衛星の概念についての私的整理」 [📝](https://suchowan.seesaa.net/article/202608article_1.html) ([端緒](https://suchowan.seesaa.net/article/201211article_25.html), [続編](https://suchowan.seesaa.net/article/202608article_3.html), [惑星の定義](https://suchowan.seesaa.net/search?keyword=%E6%83%91%E6%98%9F%E3%81%AE%E5%AE%9A%E7%BE%A9)), 🏠 ([現状](https://www.asahi-net.or.jp/~dd6t-sg/pcs/star_kinds.png), [試案](http://www.asahi-net.or.jp/~dd6t-sg/pcs/star_kinds_2.png), [sate-llite](https://www.asahi-net.or.jp/~dd6t-sg/pcs/transcriptions/satellite.md))
 - 「３連敗以上しない確率」 [📝](https://suchowan.seesaa.net/article/202309article_20.html)
 - 「信頼区間と信用区間」 [📝](https://suchowan.seesaa.net/article/201806article_1.html) ([信頼区間](https://suchowan.seesaa.net/search?keyword=%E4%BF%A1%E9%A0%BC%E5%8C%BA%E9%96%93), [偽陽性](https://suchowan.seesaa.net/search?keyword=%E5%81%BD%E9%99%BD%E6%80%A7))
 - 「Bradley-Terry モデル」 [📝](https://suchowan.seesaa.net/article/201407article_20.html) ([レーティング](https://suchowan.seesaa.net/search?keyword=%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)), [💾](https://www.asahi-net.or.jp/~dd6t-sg/rating.txt), [🐙](https://gist.github.com/suchowan/77a44b8658423054a39e742a45ab4180)
-- 「月は太陽の周りを廻っている」 [📝](https://suchowan.seesaa.net/article/201211article_25.html)
 - 「平均律」 [📝](https://suchowan.seesaa.net/article/201209article_4.html) ([平均律](https://suchowan.seesaa.net/search?keyword=%E5%B9%B3%E5%9D%87%E5%BE%8B), [近似分数](https://suchowan.seesaa.net/search?keyword=%E8%BF%91%E4%BC%BC%E5%88%86%E6%95%B0))
 - 「演算子の交換関係から関数形を導く」 [💾](https://www.asahi-net.or.jp/~dd6t-sg/uncert/uncert.dvi.html)
 
