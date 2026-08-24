@@ -77,6 +77,7 @@
 - 「３連敗以上しない確率」 [📝](https://suchowan.seesaa.net/article/202309article_20.html)
 - 「信頼区間と信用区間」 [📝](https://suchowan.seesaa.net/article/201806article_1.html) ([🔍信頼区間](https://suchowan.seesaa.net/search?keyword=%E4%BF%A1%E9%A0%BC%E5%8C%BA%E9%96%93), [🔍偽陽性](https://suchowan.seesaa.net/search?keyword=%E5%81%BD%E9%99%BD%E6%80%A7))
 - 「Bradley-Terry モデル」 [📝](https://suchowan.seesaa.net/article/201407article_20.html) ([🔍レーティング](https://suchowan.seesaa.net/search?keyword=%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)), [💾](https://www.asahi-net.or.jp/~dd6t-sg/rating.txt), [🐙](https://gist.github.com/suchowan/77a44b8658423054a39e742a45ab4180)
+- 「近接作用と遠隔作用」―なぜ一般相対論が必要になったのか 📝 ([予告](https://suchowan.seesaa.net/article/201211article_26.html), [本編](https://suchowan.seesaa.net/article/201211article_30.html), [🔍相対論](https://suchowan.seesaa.net/search?keyword=%E7%9B%B8%E5%AF%BE%E8%AB%96))
 - 「平均律」 [📝](https://suchowan.seesaa.net/article/201209article_4.html) ([🔍平均律](https://suchowan.seesaa.net/search?keyword=%E5%B9%B3%E5%9D%87%E5%BE%8B), [🔍近似分数](https://suchowan.seesaa.net/search?keyword=%E8%BF%91%E4%BC%BC%E5%88%86%E6%95%B0))
 - 「演算子の交換関係から関数形を導く」 [💾](https://www.asahi-net.or.jp/~dd6t-sg/uncert/uncert.dvi.html)
 
