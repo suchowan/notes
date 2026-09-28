@@ -45,8 +45,8 @@
 - revised.pdf — Formal description of UUS/Harmonic System [🔢](https://github.com/suchowan/a_converter/blob/master/doc/revised.pdf), [🎓](https://www.academia.edu/165195123), [🏠](http://www.asahi-net.or.jp/~dd6t-sg/univunit-e/revised.pdf) is cited from Wikipedia:Duodecimal[🌐](https://en.wikipedia.org/wiki/Duodecimal#cite_note-37)
 - Eight Quartets — Conceptual map (interactive PDF) [🔢](https://github.com/suchowan/a_converter/blob/master/doc/Eight_Quartets.pdf) ([raw](https://raw.githubusercontent.com/suchowan/a_converter/master/doc/Eight_Quartets.pdf))
 - glossary.md — Glossary & structural index [🔢](https://github.com/suchowan/a_converter/blob/master/doc/glossary.md)
+- ‘When Should a Quantity Have Its Own Dimension?’ [📝](https://suchowan.seesaa.net/article/202609article_28.html), [🎓](https://www.academia.edu/176328001/), 📘 ([Zenodo](https://doi.org/10.5281/zenodo.22991635)), [🔢](https://github.com/suchowan/dimension_criterion) ([英](https://github.com/suchowan/dimension_criterion/blob/main/manuscript.pdf), [和](https://github.com/suchowan/dimension_criterion/blob/main/manuscript_ja.md))
 - 進法&単位変換サービス [🔮](http://hosi.org/cgi-bin/conv.cgi?m=01080)
-- 「量が固有の次元を持つべき条件」 [📝](https://suchowan.seesaa.net/article/202609article_28.html), [🎓](https://www.academia.edu/176328001/), 📘 ([Zenodo](https://doi.org/10.5281/zenodo.22991635)), [🐙](https://github.com/suchowan/dimension_criterion) ([英](https://github.com/suchowan/dimension_criterion/blob/main/manuscript.pdf), [和](https://github.com/suchowan/dimension_criterion/blob/main/manuscript_ja.md))
 
 ### publications [🔢](https://github.com/suchowan/a_converter/tree/master/doc/published)
 
