@@ -50,7 +50,7 @@
 - Eight Quartets — Conceptual map (interactive PDF) [🔢](https://github.com/suchowan/a_converter/blob/master/doc/Eight_Quartets.pdf) ([raw](https://raw.githubusercontent.com/suchowan/a_converter/master/doc/Eight_Quartets.pdf))
 - glossary.md — Glossary & structural index [🔢](https://github.com/suchowan/a_converter/blob/master/doc/glossary.md)
 - ‘**When Should a Quantity Have Its Own Dimension?**’ [📝](https://suchowan.seesaa.net/article/202609article_28.html), [🎓](https://www.academia.edu/176328001), 📘 ([Zenodo](https://doi.org/10.5281/zenodo.22991635)), [🔢](https://github.com/suchowan/dimension_criterion) ([英](https://github.com/suchowan/dimension_criterion/blob/main/manuscript.pdf), [和](https://github.com/suchowan/dimension_criterion/blob/main/manuscript_ja.md)), 🐙**Slide** ([英](https://github.com/suchowan/notes/blob/master/Criterion_en.pdf), [和](https://github.com/suchowan/notes/blob/master/Criterion_ja.pdf))
-- UUS_API.md — — the request syntax and the answers [🔢](https://github.com/suchowan/a_converter/blob/master/doc/UUS_API.md)
+- UUS_API.md — the request syntax and the answers [🔢](https://github.com/suchowan/a_converter/blob/master/doc/UUS_API.md)
 - 進法&単位変換サービス [🔮](http://hosi.org/cgi-bin/conv.cgi?m=01080), [🔢](https://suchowan.github.io/a_converter/js)
 
 ### publications [🔢](https://github.com/suchowan/a_converter/tree/master/doc/published)
